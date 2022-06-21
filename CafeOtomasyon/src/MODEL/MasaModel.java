@@ -5,10 +5,7 @@
  */
 package MODEL;
 
-/**
- *
- * @author LAB2-OGR10
- */
+
 public class MasaModel {
     public int masaId;
     public String masaAdi;

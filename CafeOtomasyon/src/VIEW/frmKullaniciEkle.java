@@ -22,10 +22,7 @@ import javax.swing.ListSelectionModel;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
 
-/**
- *
- * @author LAB2-OGR8
- */
+
 public class frmKullaniciEkle extends javax.swing.JFrame {
 
     /**

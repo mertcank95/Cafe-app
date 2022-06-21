@@ -10,10 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 import javax.swing.table.AbstractTableModel;
 
-/**
- *
- * @author LAB2-OGR8
- */
+
 public class JTableModel extends AbstractTableModel {
     
     

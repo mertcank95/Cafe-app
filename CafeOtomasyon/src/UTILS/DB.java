@@ -9,10 +9,7 @@ package UTILS;
 import java.sql.*;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author LAB2-OGR19
- */
+
 public class DB {
     String constr="jdbc:sqlserver://localhost:1433;databasename=DB_Cafe";
     String user="sa";

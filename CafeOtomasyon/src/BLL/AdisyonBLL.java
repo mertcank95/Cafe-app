@@ -19,10 +19,7 @@ import java.util.Calendar;
 import java.util.Date;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Uğurcann
- */
+
 public class AdisyonBLL {
 
     DB db = new DB();

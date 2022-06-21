@@ -5,10 +5,7 @@
  */
 package MODEL;
 
-/**
- *
- * @author Uğurcann
- */
+
 public class UrunModel {
     public int urunId;
     public int kategoriId;

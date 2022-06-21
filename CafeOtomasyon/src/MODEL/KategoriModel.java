@@ -5,10 +5,7 @@
  */
 package MODEL;
 
-/**
- *
- * @author Uğurcann
- */
+
 public class KategoriModel {
 
     public int kategoriId;

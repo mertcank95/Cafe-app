@@ -32,10 +32,7 @@ import javax.swing.tree.DefaultMutableTreeNode;
 import javax.swing.tree.DefaultTreeCellRenderer;
 import javax.swing.tree.TreePath;
 
-/**
- *
- * @author Uğurcann
- */
+
 public class MenuBLL {
 
     public UrunModel Secilen;

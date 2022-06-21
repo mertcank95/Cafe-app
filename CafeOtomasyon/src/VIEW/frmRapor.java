@@ -19,10 +19,7 @@ import java.util.logging.Logger;
 import static javafx.util.Duration.millis;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Uğurcann
- */
+
 public class frmRapor extends javax.swing.JFrame {
 
     /**

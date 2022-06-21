@@ -14,10 +14,7 @@ import java.util.Vector;
 import javax.swing.table.DefaultTableModel;
 import javax.swing.table.TableModel;
 
-/**
- *
- * @author Uğurcann
- */
+
 public class MyTableModel {
 
     public static TableModel resultSetToTableModel(ResultSet rs, String[] Sutunlar) {

@@ -23,10 +23,7 @@ import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 import javax.swing.JTable;
 
-/**
- *
- * @author Uğurcann
- */
+
 public class frmMenuIslemleri extends javax.swing.JFrame {
 
     /**

@@ -5,10 +5,7 @@
  */
 package MODEL;
 
-/**
- *
- * @author LAB3-OGR
- */
+
 public class UserModel {
 
   

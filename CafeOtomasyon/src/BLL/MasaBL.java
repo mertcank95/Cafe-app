@@ -22,10 +22,7 @@ import javax.swing.JButton;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
-/**
- *
- * @author LAB2-OGR10
- */
+
 public class MasaBL {
 
     public static MasaModel mx;

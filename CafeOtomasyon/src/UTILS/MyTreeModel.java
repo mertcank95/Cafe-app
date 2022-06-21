@@ -18,10 +18,7 @@ import javax.swing.JTextField;
 import javax.swing.tree.DefaultMutableTreeNode;
 import javax.swing.tree.DefaultTreeModel;
 
-/**
- *
- * @author Uğurcann
- */
+
 public class MyTreeModel {
 
   

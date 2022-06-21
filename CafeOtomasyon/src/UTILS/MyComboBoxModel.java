@@ -7,10 +7,7 @@ package UTILS;
 
 import javax.swing.DefaultComboBoxModel;
 
-/**
- *
- * @author Uğurcann
- */
+
 public class MyComboBoxModel {
      public static DefaultComboBoxModel getComboModel(Object[] xliste){
         DefaultComboBoxModel mymodel = new DefaultComboBoxModel(xliste);

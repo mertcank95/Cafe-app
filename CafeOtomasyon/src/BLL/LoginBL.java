@@ -10,10 +10,6 @@ import UTILS.DB;
 import java.sql.*;
 
 
-/**
- *
- * @author LAB3-OGR
- */
 public class LoginBL {
     
     

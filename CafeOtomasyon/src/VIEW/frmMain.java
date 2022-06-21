@@ -35,10 +35,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.tree.DefaultMutableTreeNode;
 
-/**
- *
- * @author LAB3-OGR
- */
+
 public class frmMain extends javax.swing.JFrame {
 
     /**

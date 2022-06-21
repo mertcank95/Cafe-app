@@ -5,10 +5,7 @@
  */
 package cafeotomasyon;
 
-/**
- *
- * @author LAB3-OGR
- */
+
 public class CafeOtomasyon {
 
     /**
